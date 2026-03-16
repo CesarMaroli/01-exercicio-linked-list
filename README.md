@@ -16,6 +16,10 @@ Exercício com Lista Simplesmente Encadeada (Linked List).
 
 ## Pré-requisitos
 
+- **GCC/G++** — compilador C++ (versão 11 ou superior)
+- **GDB** — debugger (opcional, para depuração)
+- **Visual Studio Code** — editor de código (opcional)
+
 ## Ferramentas de Desenvolvimento
 
 - **Compilador:** GCC/G++
